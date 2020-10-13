@@ -1,0 +1,2 @@
+rm -r -f pi-projects
+git clone https://github.com/apage-pi/pi-projects
